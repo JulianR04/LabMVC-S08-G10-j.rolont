@@ -32,7 +32,7 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
-1. Julian Santiago Rolon Toloza j.rolont@uniandes.edu.co 202215839
+1. Julian Santiago Rolón Toloza j.rolont@uniandes.edu.co 202215839
 2. Juan David Castillo Quiroga j.castilloq@uniandes.edu.co 202210669 
 
 [Back to top](#sample-mvc)
